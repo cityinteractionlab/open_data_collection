@@ -1,6 +1,8 @@
 # open data sources
 Here we list some sources of open city data: 
-1. Data from Montreulle https://data.montreuil.fr/explore/?disjunctive.features&disjunctive.theme&sort=explore.popularity_score 
+1. Data from cities:
+a. Montreulle https://data.montreuil.fr/explore/?disjunctive.features&disjunctive.theme&sort=explore.popularity_score 
+b. Paris https://opendata.paris.fr/pages/home/
 2. Data from airplane https://www.flightradar24.com/data/statistics 
 3. Data on open mobility sources from kaggle competition https://www.kaggle.com/lanheken0/community-mobility-data-for-covid19
 4. Datopian provides incredible collection of open data resources https://github.com/datopian
