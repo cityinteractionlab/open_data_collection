@@ -6,6 +6,7 @@ b. Paris https://opendata.paris.fr/pages/home/
 2. Data from airplane https://www.flightradar24.com/data/statistics 
 3. Data on open mobility sources from kaggle competition https://www.kaggle.com/lanheken0/community-mobility-data-for-covid19
 4. Datopian provides incredible collection of open data resources https://github.com/datopian
+5. Open data platform https://data.humdata.org/ 
 
 # data visualisation tutorials 
 
