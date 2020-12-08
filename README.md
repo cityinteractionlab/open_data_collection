@@ -7,6 +7,7 @@ b. Paris https://opendata.paris.fr/pages/home/
 3. Data on open mobility sources from kaggle competition https://www.kaggle.com/lanheken0/community-mobility-data-for-covid19
 4. Datopian provides incredible collection of open data resources https://github.com/datopian
 5. Open data platform https://data.humdata.org/ 
+6. Open climate data https://openclimatedata.net/ 
 
 # data visualisation tutorials 
 
@@ -15,3 +16,4 @@ Tools
 2. Python data visualisations https://python-graph-gallery.com
 3. Data to viz website https://www.data-to-viz.com 
 4. Vega github http://vega.github.io/voyager/ 
+5. Data for science tutorial https://github.com/DataForScience
