@@ -9,6 +9,7 @@ b. Paris https://opendata.paris.fr/pages/home/
 5. Open data platform https://data.humdata.org/ 
 6. Open climate data https://openclimatedata.net/ 
 7. Our world in data resources with visualisations https://ourworldindata.org/
+8. Paris city urban forst data https://public.tableau.com/profile/badiu.alexandru#!/vizhome/ParisCityUrbanForest/Dashboard1
 
 # data visualisation tutorials 
 
