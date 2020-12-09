@@ -8,6 +8,7 @@ b. Paris https://opendata.paris.fr/pages/home/
 4. Datopian provides incredible collection of open data resources https://github.com/datopian
 5. Open data platform https://data.humdata.org/ 
 6. Open climate data https://openclimatedata.net/ 
+7. Our world in data resources with visualisations https://ourworldindata.org/
 
 # data visualisation tutorials 
 
