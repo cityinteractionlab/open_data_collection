@@ -11,6 +11,7 @@ b. Paris https://opendata.paris.fr/pages/home/
 7. Our world in data resources with visualisations https://ourworldindata.org/
 8. Paris city urban forst data https://public.tableau.com/profile/badiu.alexandru#!/vizhome/ParisCityUrbanForest/Dashboard1
 9. Open datasets (with registry) https://dataspace.mobi/
+10. Open resources from France  https://www.data.gouv.fr
 
 # data visualisation tutorials 
 
