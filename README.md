@@ -12,6 +12,7 @@ b. Paris https://opendata.paris.fr/pages/home/
 8. Paris city urban forst data https://public.tableau.com/profile/badiu.alexandru#!/vizhome/ParisCityUrbanForest/Dashboard1
 9. Open datasets (with registry) https://dataspace.mobi/
 10. Open resources from France  https://www.data.gouv.fr
+11. Open mobility foundation resources https://www.openmobilityfoundation.org/
 
 # data visualisation tutorials 
 
