@@ -14,6 +14,7 @@ b. Paris https://opendata.paris.fr/pages/home/
 10. Open resources from France  https://www.data.gouv.fr
 11. Open mobility foundation resources https://www.openmobilityfoundation.org/
 12. Tree database from Budapest  https://infogardenweb.hu/bpfatar/
+13. Open EU datasets https://www.europeandataportal.eu/en
 
 # data visualisation tutorials 
 
